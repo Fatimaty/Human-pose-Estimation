@@ -36,4 +36,4 @@ python infer_video.py --source path/to/video.mp4
 ## Notes
 - COCO **17 keypoints** are used. See `utils_vis.py` for the names and the skeleton connections.
 - The `--score` flag filters out low-confidence detections.
-- You can extend this repo with tracking, action recognition, or pose analytics.
+
